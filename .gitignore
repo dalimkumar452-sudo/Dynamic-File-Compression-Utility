@@ -1,0 +1,5 @@
+__pycache__/
+*.bin
+*.json
+*.txt
+!input_files/sample.txt
